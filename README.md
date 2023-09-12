@@ -15,13 +15,12 @@ More features to be added as the project evolves.
 List any software, libraries, or dependencies that need to be installed.
 Installation
 Clone the repository:
+```sh
+git clone https://github.com/jaapbrasser/PalmPlay.git
 ```
-sh
-git clone https://github.com/your_github_username/PalmPlay.git
-```
+
 Navigate to the directory and install the required packages:
-```
-sh
+```sh
 Copy code
 cd PalmPlay
 pip install -r requirements.txt  <!-- Or other install commands -->
